@@ -66,3 +66,6 @@ I would tend to trust the hand calculations over the FEA as there are less inher
 
 I spent about 8 hours spread over a couple of days while completing this project. Initially, I tried to create my CAD model in PTC Creo Parametric but I switched over to SolidWorks to match the lecture information. I wanted my process and results to correspond with what I had learned in the lecture as well as to ensure my process was correct.
 
+
+# Download CAD Model
+<a href="A3nBrady.SLDPRT">Download my CAD Model</a>
