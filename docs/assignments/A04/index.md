@@ -34,13 +34,13 @@ At this point in the project, all of my calculations are completed. All that rem
 
 
 
-## 3 - Isometric View
+##  Isometric View
 
 <p align="center">
   <img width="600" alt="Isometric View" src="isometric.png"/>
 </p>
 
-## 4 - CAD Modeling
+## CAD Modeling
 
 The CAD Modeling portion of the project was relatively easy. With the ability to set variables and equations in the SolidWorks toolbar, extruding the correct dimensions was simple.
 
